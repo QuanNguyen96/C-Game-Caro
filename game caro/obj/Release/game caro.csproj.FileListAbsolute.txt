@@ -1,0 +1,1 @@
+D:\c# winform\game caro\game caro\bin\Release\game caro.exe.config

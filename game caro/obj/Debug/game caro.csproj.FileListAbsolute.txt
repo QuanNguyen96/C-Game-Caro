@@ -1,0 +1,78 @@
+D:\c# winform\game caro\game caro\bin\Debug\game caro.exe.config
+D:\c# winform\game caro\game caro\bin\Debug\game caro.exe
+D:\c# winform\game caro\game caro\bin\Debug\game caro.pdb
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.Form1.resources
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.Properties.Resources.resources
+D:\c# winform\game caro\game caro\obj\Debug\game caro.csproj.GenerateResource.Cache
+D:\c# winform\game caro\game caro\obj\Debug\game caro.exe
+D:\c# winform\game caro\game caro\obj\Debug\game caro.pdb
+D:\c# winform\game caro\game caro\obj\Debug\game caro.csprojResolveAssemblyReference.cache
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.frmLogin.resources
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.frm_creat_new_accounts.resources
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.frm_doipass.resources
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.frm_thongtinnguoichoi.resources
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.frm_gioithieu.resources
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.frm_thongtintaikhoan.resources
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.frm_nhandan.resources
+D:\c# winform\game caro\game caro\obj\Debug\game_caro.frm_iconcamxuc.resources
+D:\code game\game caro\game caro\bin\Debug\game caro.exe.config
+D:\code game\game caro\game caro\obj\Debug\game caro.exe
+D:\code game\game caro\game caro\obj\Debug\game caro.pdb
+D:\code game\game caro\game caro\bin\Debug\game caro.exe
+D:\code game\game caro\game caro\bin\Debug\game caro.pdb
+D:\code game\game caro\game caro\obj\Debug\game caro.csprojResolveAssemblyReference.cache
+D:\code game\game caro\game caro\obj\Debug\game_caro.Form1.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.frmLogin.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.frm_creat_new_accounts.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.frm_doipass.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.frm_gioithieu.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.frm_iconcamxuc.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.frm_nhandan.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.frm_thongtinnguoichoi.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.frm_thongtintaikhoan.resources
+D:\code game\game caro\game caro\obj\Debug\game_caro.Properties.Resources.resources
+D:\code game\game caro\game caro\obj\Debug\game caro.csproj.GenerateResource.Cache
+C:\Users\Spring Khoa\Desktop\game caro\game caro\bin\Debug\game caro.exe.config
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game caro.exe
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game caro.pdb
+C:\Users\Spring Khoa\Desktop\game caro\game caro\bin\Debug\game caro.exe
+C:\Users\Spring Khoa\Desktop\game caro\game caro\bin\Debug\game caro.pdb
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game caro.csprojResolveAssemblyReference.cache
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.Form1.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frmLogin.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frm_creat_new_accounts.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frm_doipass.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frm_gioithieu.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frm_iconcamxuc.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frm_nhandan.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frm_thongtinnguoichoi.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frm_thongtintaikhoan.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.Properties.Resources.resources
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game caro.csproj.GenerateResource.Cache
+C:\Users\Spring Khoa\Desktop\game caro\game caro\obj\Debug\game_caro.frm_main.resources
+C:\Users\laptop88\Desktop\game caro\game caro\bin\Debug\game caro.exe.config
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game caro.exe
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game caro.pdb
+C:\Users\laptop88\Desktop\game caro\game caro\bin\Debug\game caro.exe
+C:\Users\laptop88\Desktop\game caro\game caro\bin\Debug\game caro.pdb
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game caro.csprojResolveAssemblyReference.cache
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.Form1.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frmLogin.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_creat_new_accounts.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_doipass.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_gioithieu.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_iconcamxuc.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_main.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_nhandan.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_thongtinnguoichoi.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_thongtintaikhoan.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.Properties.Resources.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game caro.csproj.GenerateResource.Cache
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.TOP_Player.resources
+C:\Users\laptop88\Desktop\game caro\game caro\obj\Debug\game_caro.frm_laymatkhau.resources
+D:\c# winform\game caro-LTHDT\game caro\bin\Debug\game caro.exe.config
+D:\c# winform\game caro-LTHDT\game caro\obj\Debug\game caro.exe
+D:\c# winform\game caro-LTHDT\game caro\obj\Debug\game caro.pdb
+E:\c# winform\game caro-LTHDT\game caro\bin\Debug\game caro.exe.config
+E:\c# winform\game caro-LTHDT\game caro\obj\Debug\game caro.exe
+E:\c# winform\game caro-LTHDT\game caro\obj\Debug\game caro.pdb
